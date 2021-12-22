@@ -52,20 +52,20 @@ class _homeState extends State<home> {
             Container(
               height: 50,
               width: 50,
-              color: Colors.yellow,
+              color: Colors.black,
             ),
             Container(
               height: 80,
               width: 80,
-              color: Colors.black,
+              color: Colors.yellow,
             ),
             Container(
-              height: 120,
+              height: 110,
               width: 120,
               color: Colors.cyanAccent,
             ),
             Container(
-              width: 330,
+              width: 230,
               height: 20,
               color: Colors.white,
             ),
